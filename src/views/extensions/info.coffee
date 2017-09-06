@@ -118,7 +118,7 @@ exports.index =
             This extension offers a texture format with internal storage in sRGB.
             <br/><br/>
             Rendering should usually be performed in linear space
-            (see <a href="http://http.developer.nvidia.com/GPUGems3/gpugems3_ch24.html">the importance of being linear</a>).
+            (see <a href="http://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html">the importance of being linear</a>).
             Using this extension banding artifacts and incorrect blending outcomes can be avoided or mitgitated.
         '''
         status: 'community'
